@@ -1,0 +1,40 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "modelo": "up tsi",
+            "marca": "volkswagen",
+            "cor": "azul",
+            "chassi": "568394892023",
+            "placa": "APK-3332",
+            "ano": "2020",
+            "valor": "R$ 35.000,00",
+            "fipe": "R$ 37.000,00",
+            "km": "30.000"
+        },
+        {
+            "id": 2,
+            "modelo": "gol g4",
+            "marca": "volkswagen",
+            "cor": "branco",
+            "chassi": "568324234023",
+            "placa": "AQK-2522",
+            "ano": "2010",
+            "valor": "R$ 13.000,00",
+            "fipe": "R$ 15.000,00",
+            "km": "180.000"
+        },
+        {
+            "id": 3,
+            "modelo": "palio fire",
+            "marca": "fiat",
+            "cor": "preto",
+            "chassi": "123394892023",
+            "placa": "AJN-7939",
+            "ano": "2000",
+            "valor": "R$ 12.000,00",
+            "fipe": "R$ 9.000,00",
+            "km": "90.000"
+        }
+    ]
+}
