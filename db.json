@@ -1,41 +1,26 @@
-{
-    "carros": [
-        {
-            "id": 1,
-            "modelo": "up tsi",
-            "marca": "volkswagen",
-            "cor": "azul",
-            "chassi": "568394892023",
-            "placa": "APK-3332",
-            "ano": "2020",
-            "valor": "R$ 35.000,00",
-            "fipe": "R$ 37.000,00",
-            "km": "30.000",
-            "img": "https://i.ibb.co/KztxRhd/up.png"
-        },
-        {
-            "id": 2,
-            "modelo": "gol g4",
-            "marca": "volkswagen",
-            "cor": "branco",
-            "chassi": "568324234023",
-            "placa": "AQK-2522",
-            "ano": "2010",
-            "valor": "R$ 13.000,00",
-            "fipe": "R$ 15.000,00",
-            "km": "180.000"
-        },
-        {
-            "id": 3,
-            "modelo": "palio fire",
-            "marca": "fiat",
-            "cor": "preto",
-            "chassi": "123394892023",
-            "placa": "AJN-7939",
-            "ano": "2000",
-            "valor": "R$ 12.000,00",
-            "fipe": "R$ 9.000,00",
-            "km": "90.000"
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "stars": 3.5,
+    "title": "Curso do Matheus",
+    "author": "Matheus Kemer"
+  },
+  {
+    "id": 2,
+    "stars": 4,
+    "title": "Curso da Roberta",
+    "author": "Roberta Santiago"
+  },
+  {
+    "id": 3,
+    "stars": 4.5,
+    "title": "Curso do Ronald",
+    "author": "Ronald Silva"
+  },
+  {
+    "id": 4,
+    "stars": 5,
+    "title": "Curso do Trog",
+    "author": "Rafael Trog"
+  }
+]
