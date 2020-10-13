@@ -1,26 +1,29 @@
-[
-  {
-    "id": 1,
-    "stars": 3.5,
-    "title": "Curso do Matheus",
-    "author": "Matheus Kemer"
-  },
-  {
-    "id": 2,
-    "stars": 4,
-    "title": "Curso da Roberta",
-    "author": "Roberta Santiago"
-  },
-  {
-    "id": 3,
-    "stars": 4.5,
-    "title": "Curso do Ronald",
-    "author": "Ronald Silva"
-  },
-  {
-    "id": 4,
-    "stars": 5,
-    "title": "Curso do Trog",
-    "author": "Rafael Trog"
-  }
-]
+{
+  cursos:
+  [
+    {
+      "id": 1,
+      "stars": 3.5,
+      "title": "Curso do Matheus",
+      "author": "Matheus Kemer"
+    },
+    {
+      "id": 2,
+      "stars": 4,
+      "title": "Curso da Roberta",
+      "author": "Roberta Santiago"
+    },
+    {
+      "id": 3,
+      "stars": 4.5,
+      "title": "Curso do Ronald",
+      "author": "Ronald Silva"
+    },
+    {
+      "id": 4,
+      "stars": 5,
+      "title": "Curso do Trog",
+      "author": "Rafael Trog"
+    }
+  ]
+}
